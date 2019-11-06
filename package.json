@@ -26,6 +26,6 @@
     "graphql-date": "^1.0.3",
     "lodash": "^4.17.11",
     "pg": "^7.8.0",
-    "sequelize": "^4.42.0"
+    "sequelize": "^5.15.1"
   }
 }
